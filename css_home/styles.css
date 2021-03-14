@@ -1,0 +1,37 @@
+body {
+    font-family: "GothamPro-Bold", sans-serif;
+    color: #181818;
+    box-sizing: border-box;
+    background-color: #F7F9FB;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+img {
+    margin-left: -4px;
+}
+
+.you {
+    display: inline-block;
+}
+
+button:hover {
+    border-left-width: 10px;
+    border-left-color: blue;
+    overflow: hidden;
+}
+
+.btn {
+    border: 0;
+}
+
+.list {
+    margin-left: 129px;
+    margin-right: 107px;
+}
+input{
+    border: 0;
+    color: #F7F9FB;
+}

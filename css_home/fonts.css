@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "GothamPro-Light";
+    src: local("GothamPro"),
+    url("../font/GothamPro-Light.woff");
+
+}
+@font-face {
+    font-family: "GothamPro-Bold";
+    src: local("GothamPro"),
+    url("../font/GothamPro-Bold.woff");
+}
+@font-face {
+    font-family: "GothamPro-Medium";
+    src: local("GothamPro"),
+    url("../font/GothamPro-Medium.woff");
+}
